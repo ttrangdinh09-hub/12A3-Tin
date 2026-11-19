@@ -1,5 +1,4 @@
-# 12A3-Tin
-<!DOCTYPE html>
+# 12A3 Ôn tập Tin học 
 <html lang="vi">
 <head>
   <meta charset="UTF-8" />
